@@ -1,4 +1,4 @@
-setfacl -b File/Dir
+jkdfhaskjhdssetfacl -b File/Dir
 where -b: removes all ACL's info of given file/Dir
 
 Removing Default ACLs"-
